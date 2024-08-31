@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">1.Clone o repositório para a sua máquina local usando git clone.<br>2.Abra o dadosgestao.sql no MYSQL Workbench.<br>3.Abra o programa gestao-pragas onde seja suportado programas feitos em java, neste caso feito no Apache Netbeans.<br>4.Alimente o banco de dados com as funcionalidades do programa.<br>5.Use o comando node script.js no terminal para ligar o servidor.<br>6.Abra o arquivo index.html em seu navegador.</p>
+<p align="left">1.Clone o repositório para a sua máquina local utilizando o comando git clone.<br>2.Abra o arquivo dadosgestao.sql no MySQL Workbench para configurar o banco de dados.<br>3.Abra o programa gestao-pragas em um ambiente de desenvolvimento Java compatível, como o Apache NetBeans.<br>4.Use as funcionalidades do programa para alimentar o banco de dados com os dados necessários.<br>5.No terminal, execute o comando node script.js para iniciar o servidor.<br>6.Abra o arquivo index.html no seu navegador para visualizar a aplicação.</p>
 
 ###
 
@@ -30,6 +30,6 @@
 
 ###
 
-<p align="left">Contribuições são sempre bem-vindas. Para contribuir, por favor:<br><br>1.Faça um fork do repositório.<br>2.Crie uma nova branch com suas alterações.<br>3.Faça um pull request.</p>
+<p align="left">Contribuições são sempre bem-vindas. Para contribuir, por favor:<br><br>1.Faça um fork do repositório para sua conta.<br>2.Crie uma nova branch para suas alterações.<br>3.Submeta um pull request com as suas modificações.</p>
 
 ###
